@@ -1,0 +1,7 @@
+HumCalMod = 22, 14, 966, 668, C
+GeneralSerialPortRoutines = 1, 39, 988, 702, C
+frmPortSettings = 0, 0, 0, 0, C, 130, 130, 980, 690, C
+frmMain = 14, 4, 1092, 804, , 104, 104, 954, 664, C
+frmError = 0, 0, 0, 0, C, 182, 182, 1032, 742, C
+frmPassword = 0, 0, 0, 0, C, 208, 208, 1058, 768, C
+frmFileFolder = 0, 0, 0, 0, C, 234, 234, 1084, 794, C

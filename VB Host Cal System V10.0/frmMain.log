@@ -1,0 +1,49 @@
+Line 253: Class MSFlexGridLib.MSFlexGrid of control grdSpreadsheet was not a loaded control class.
+Line 304: Class MSComctlLib.ProgressBar of control barProgress was not a loaded control class.
+Line 316: Class MSCommLib.MSComm of control MSComm4 was not a loaded control class.
+Line 324: Class MSCommLib.MSComm of control MSComm3 was not a loaded control class.
+Line 332: Class MSCommLib.MSComm of control MSComm2 was not a loaded control class.
+Line 377: Class MSComctlLib.StatusBar of control StatusBar was not a loaded control class.
+Line 395: Class MSComDlg.CommonDialog of control cdbFile was not a loaded control class.
+Line 680: Class MSCommLib.MSComm of control MSComm1 was not a loaded control class.
+Line 259: The property name _ExtentX in grdSpreadsheet is invalid.
+Line 260: The property name _ExtentY in grdSpreadsheet is invalid.
+Line 261: The property name _Version in grdSpreadsheet is invalid.
+Line 262: The property name Rows in grdSpreadsheet is invalid.
+Line 263: The property name Cols in grdSpreadsheet is invalid.
+Line 264: The property name FixedRows in grdSpreadsheet is invalid.
+Line 265: The property name FixedCols in grdSpreadsheet is invalid.
+Line 310: The property name _ExtentX in barProgress is invalid.
+Line 311: The property name _ExtentY in barProgress is invalid.
+Line 312: The property name _Version in barProgress is invalid.
+Line 314: The property name Max in barProgress is invalid.
+Line 319: The property name _ExtentX in MSComm4 is invalid.
+Line 320: The property name _ExtentY in MSComm4 is invalid.
+Line 321: The property name _Version in MSComm4 is invalid.
+Line 322: The property name DTREnable in MSComm4 is invalid.
+Line 327: The property name _ExtentX in MSComm3 is invalid.
+Line 328: The property name _ExtentY in MSComm3 is invalid.
+Line 329: The property name _Version in MSComm3 is invalid.
+Line 330: The property name DTREnable in MSComm3 is invalid.
+Line 335: The property name _ExtentX in MSComm2 is invalid.
+Line 336: The property name _ExtentY in MSComm2 is invalid.
+Line 337: The property name _Version in MSComm2 is invalid.
+Line 338: The property name DTREnable in MSComm2 is invalid.
+Line 384: The property name _ExtentX in StatusBar is invalid.
+Line 385: The property name _ExtentY in StatusBar is invalid.
+Line 386: The property name Style in StatusBar is invalid.
+Line 387: The property name SimpleText in StatusBar is invalid.
+Line 388: The property name _Version in StatusBar is invalid.
+Line 393: The property name Panels in StatusBar is invalid.
+Line 398: The property name _ExtentX in cdbFile is invalid.
+Line 399: The property name _ExtentY in cdbFile is invalid.
+Line 400: The property name _Version in cdbFile is invalid.
+Line 401: The property name DefaultExt in cdbFile is invalid.
+Line 402: The property name DialogTitle in cdbFile is invalid.
+Line 403: The property name FileName in cdbFile is invalid.
+Line 404: The property name Filter in cdbFile is invalid.
+Line 405: The property name InitDir in cdbFile is invalid.
+Line 683: The property name _ExtentX in MSComm1 is invalid.
+Line 684: The property name _ExtentY in MSComm1 is invalid.
+Line 685: The property name _Version in MSComm1 is invalid.
+Line 686: The property name DTREnable in MSComm1 is invalid.

@@ -1,0 +1,34 @@
+DP  C   =  12.03443
+RH      =  49.84703
+TMP C   =  23.06068
+Control
+
+
+                'Now pull RH string out and get RH value first:
+                i = InStr(1, ChamberRefIntext, "RH")
+                If i > 0 Then
+                    StartNumber = InStr(i, ChamberRefIntext, "=") + 1
+                    EndNumber = InStr(i, ChamberRefIntext, CR)
+                    LengthNumber = EndNumber - StartNumber
+                    If (LengthNumber > 0) Then
+                        NumberString = Mid(ChamberRefIntext, StartNumber, LengthNumber)
+                        ChamberRH = Val(NumberString)
+                        'txtChamberRH.Text = Format$(ChamberRH, "###.#")
+                        lblChamberRH.Caption = "Chamber RH:" + Format$(ChamberRH, "###.#") + "%"
+                    End If
+                End If
+                
+                'Now pull temperature string out and get temperature:
+                i = InStr(1, ChamberRefIntext, "TMP C")
+                If i > 0 Then
+                    StartNumber = InStr(i, ChamberRefIntext, "=") + 1
+                    EndNumber = InStr(i, ChamberRefIntext, CR)
+                    LengthNumber = EndNumber - StartNumber
+                    If (LengthNumber > 0) Then
+                        NumberString = Mid(ChamberRefIntext, StartNumber, LengthNumber)
+                        ChamberTempC = Val(NumberString)
+                        'txtTemperature.Text = Format$(ChamberRH, "###.#")
+                        lblChamberTemp.Caption = "Temperature C:" + Format$(ChamberTempC, "###.#") + "%"
+                    End If
+                End If
+  
